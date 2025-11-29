@@ -1,5 +1,5 @@
 {
   "name": "version config",
-  "disableVersionCode": "000000000",
-  "disableVersionCodes": ["123", "456", "789", "1000"]
+  "disableVersionCode": "241130016",
+  "disableVersionCodes": ["000", "001", "002", "003"]
 }
