@@ -1,5 +1,6 @@
 {
   "name": "version config",
   "disableVersionCode": "000000000",
-  "disableVersionCodes": ["000", "001", "002", "003"]
+  "disableVersionCodes": ["000", "001", "002", "003"],
+  "delayTimeToDisplayUpdatePopup": 86400000
 }
